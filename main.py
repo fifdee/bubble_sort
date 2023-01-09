@@ -23,6 +23,7 @@ def my_sorted(input_sequence):
                     changes += 1
         if changes == 0:
             break
+
     return result
 
 
